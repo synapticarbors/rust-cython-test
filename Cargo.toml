@@ -1,0 +1,8 @@
+[package]
+name = "rustcython_test"
+version = "0.1.0"
+authors = ["Joshua L. Adelman <joshua.adelman@gmail.com>"]
+
+[lib]
+name = "rustcython_test"
+crate-type = ["dylib"]
